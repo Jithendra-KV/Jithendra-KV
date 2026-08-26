@@ -1,20 +1,76 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I'm currently working on CSE Projects & Web Development <br>👯 I'm looking to collaborate on Open Source & Software Projects<br>🌱 I'm currently learning Java, Python, DSA & Web Development<br>
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jithendrakv705@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:190019,50:2B124C,100:522B5B&height=180&section=header&text=JITHENDRA%20K%20V&fontSize=42&fontColor=FBE4D8&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=60&descSize=16" width="100%"/>
 
+<a href="https://linkedin.com/in/your-linkedin-handle">
+<img src="https://img.shields.io/badge/LinkedIn-2B124C?style=for-the-badge&logo=linkedin&logoColor=FBE4D8"/>
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="mailto:jithendrakv705@gmail.com">
+<img src="https://img.shields.io/badge/Email-522B5B?style=for-the-badge&logo=gmail&logoColor=FBE4D8"/>
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jithendra-KV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Jithendra-KV&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jithendra-KV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hi there
+
+I'm interested in **software development and building projects**.
+
+- 🔭 Currently working on **CSE Projects**
+- 👯 Looking to collaborate on **Open Source & Software Projects**
+- 🌱 Currently learning **Java, Python, DSA & Web Development**
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-190019?style=for-the-badge&logo=python&logoColor=FBE4D8)
+![Java](https://img.shields.io/badge/Java-2B124C?style=for-the-badge&logo=openjdk&logoColor=FBE4D8)
+![C](https://img.shields.io/badge/C-522B5B?style=for-the-badge&logo=c&logoColor=FBE4D8)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-190019?style=for-the-badge&logo=html5&logoColor=FBE4D8)
+![CSS3](https://img.shields.io/badge/CSS3-2B124C?style=for-the-badge&logo=css3&logoColor=FBE4D8)
+
+### Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-522B5B?style=for-the-badge&logo=mongodb&logoColor=FBE4D8)
+![Git](https://img.shields.io/badge/Git-190019?style=for-the-badge&logo=git&logoColor=FBE4D8)
+![GitHub](https://img.shields.io/badge/GitHub-2B124C?style=for-the-badge&logo=github&logoColor=FBE4D8)
+![Postman](https://img.shields.io/badge/Postman-522B5B?style=for-the-badge&logo=postman&logoColor=FBE4D8)
+
+### Platforms & Design
+
+![Vercel](https://img.shields.io/badge/Vercel-190019?style=for-the-badge&logo=vercel&logoColor=FBE4D8)
+![Canva](https://img.shields.io/badge/Canva-2B124C?style=for-the-badge&logo=canva&logoColor=FBE4D8)
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-linkedin-handle">
+<img src="https://img.shields.io/badge/LINKEDIN-2B124C?style=for-the-badge&logo=linkedin&logoColor=FBE4D8"/>
+</a>
+
+<a href="mailto:jithendrakv705@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-522B5B?style=for-the-badge&logo=gmail&logoColor=FBE4D8"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### *Learning • Building • Improving*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:190019,50:2B124C,100:522B5B&height=100&section=footer"/>
+
+</div>
